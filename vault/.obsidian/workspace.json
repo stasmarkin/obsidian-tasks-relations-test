@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "eb261cab01216840",
+    "type": "split",
+    "children": [
+      {
+        "id": "119764d3410e7ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2340d2a6fd354f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "generatedTests/Test_12345.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c40d385a8dd7fa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "33787dc5009419b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d808e12691c98ce9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27f2b82e9c88b947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80e7ceb177e9b00d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0eede526558c9025",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9097bfe27f3f467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac53bedaedead9fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "generatedTests/Test_12345.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2b0aa385bd59c46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "generatedTests/Test_12345.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "031f958503d967a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ae65b2b194a4438",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "generatedTests/Test_12345.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa2340d2a6fd354f",
+  "lastOpenFiles": [
+    "generatedTests/Test_12344.md",
+    "generatedTests/Test_12343.md",
+    "generatedTests/Test_12342.md",
+    "generatedTests/Test_12341.md",
+    "generatedTests/Test_12334.md",
+    "generatedTests/Test_12333.md",
+    "generatedTests/Test_12332.md",
+    "generatedTests/Test_12331.md",
+    "generatedTests/Test_12323.md",
+    "generatedTests/Test_12322.md",
+    "generatedTests/Test_12321.md",
+    "generatedTests/Test_12312.md",
+    "generatedTests/Test_12311.md",
+    "generatedTests/Test_12234.md",
+    "generatedTests/Test_12233.md",
+    "generatedTests/Test_12232.md",
+    "generatedTests/Test_12231.md",
+    "generatedTests/Test_12223.md",
+    "generatedTests/Test_12222.md",
+    "generatedTests/Test_12221.md",
+    "generatedTests/Test_12212.md",
+    "generatedTests/Test_12211.md",
+    "generatedTests/Test_12123.md",
+    "generatedTests/Test_12122.md",
+    "generatedTests/Test_12121.md",
+    "generatedTests/Test_12112.md"
+  ]
+}
